@@ -1,0 +1,4 @@
+Grammar after Left Factoring:
+
+A -> a A' | d
+A' -> b | c
